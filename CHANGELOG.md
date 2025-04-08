@@ -273,4 +273,4 @@ new default style and demo apk looks like this:
 
 1.0
 ---
-Add an attr of radius, now you can change the radius when configure the button's face!
+Add an attribute of radius, now you can change the radius when configure the button's face!
